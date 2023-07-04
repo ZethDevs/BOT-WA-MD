@@ -18,7 +18,7 @@ global.rosekey = 'cba86fac49e37d63f9bd4561' // ROSE
 global.keyai = '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' // https://platform.openai.com/account/api-keys
 
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'ᴋᴏɴᴇᴋᴏ-ᴍᴅ'
+global.namabot = 'ᴋᴏɴᴇᴋᴏ-ᴍᴅs'
 global.namaowner = '𝚔𝚘𝚒'
 global.wagc = "https://chat.whatsapp.com/HcCRmsV8l0q4gLstSQsLkA"
 
