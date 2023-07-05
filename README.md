@@ -29,12 +29,6 @@
 - ✔️ | And Others
 ---------
 
-
-##
-[![Group Chat](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KcXK1BqMkRw7Y7QPWPAWpq) 
-[![Bot](https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62857604516837)
-
-
 ## Thanks To
 ```bash
 𝐀𝐮𝐭𝐡𝐨𝐫 : ZethDevs
