@@ -1,13 +1,4 @@
 /*
-    Base By ArxzyDev
-    Recode By QyuuNee
-    Jual Sc? Neraka Paling Bawah
-    My Contact https://wa.me/6288210828960
-    
-   Notes:
-   Jika Ingin Recode Silakan Tapi Ingat Creditnya
-   Sc Koneko-MD Akan Terus Di Update.
-   Jika Ingin Beli Apikey Chat Owner Lolhuman
    
 */
 
