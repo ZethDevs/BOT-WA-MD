@@ -1,12 +1,4 @@
 /*
-    Created & Base By ArxzyDev
-    Jual Sc? Neraka Paling Bawah
-    My Contact https://wa.me/6289513081052
-    
-   Notes:
-   Jika Ingin Recode Silakan Tapi Ingat Creditnya
-   Sc Adrian-MD Akan Terus Di Update.
-   Jika Ingin Beli Apikey Chat Owner Lolhuman
    
 */
 
