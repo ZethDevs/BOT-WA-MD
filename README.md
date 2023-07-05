@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/4e863df350117884989a2.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="[https://telegra.ph/file/4e863df350117884989a2.jpg](https://telegra.ph/file/eeab63f81e36ba4d3e57e.jpg)" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">BOT WA - V1</h1>
 
